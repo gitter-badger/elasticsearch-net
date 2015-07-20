@@ -8,6 +8,8 @@ Builds:
 
 #[Elasticsearch.Net](src/Elasticsearch.Net)
 
+[![Join the chat at https://gitter.im/yonglehou/elasticsearch-net](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yonglehou/elasticsearch-net?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * Low-level client that provides a one-to-one mapping with the Elasticsearch REST API
 * No dependencies
 * Almost completely generated from the official REST API spec which makes it easy to keep up to date
